@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --linear-blue: linear-gradient(180deg, #04103A 0%, #0E1F4F 64.9%, #05163D 100%);
+}
+
+.root__container{
+    background: var(--linear-blue);
+}

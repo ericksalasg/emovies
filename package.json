@@ -1,0 +1,19 @@
+{
+  "name": "emovies",
+  "version": "1.0.0",
+  "description": "Proyecto de REST API",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericksalasg/emovies.git"
+  },
+  "author": "ericksalasdev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ericksalasg/emovies/issues"
+  },
+  "homepage": "https://github.com/ericksalasg/emovies#readme"
+}
